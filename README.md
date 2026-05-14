@@ -1,2 +1,9 @@
-# Buttons
-A bot for adding buttons (ReplyKeyboard) to a Telegram conversation
+<h1 align="center">Buttons</h1>
+<p align="center">Telegram bot to add buttons to a conversation</p>
+
+## Идея
+Идея заключается в установке любых кнопок в любую беседу, по запросам покупателя. Бот принимает заявку, отправляет ее мне, а далее я редактирую код для добавления конкретной клавиатуры, захожу в беседу и активирую ее по команде боту.
+
+## Смысл
+Самый первый бот, которого я написал. Просто учился, познавал, пытался реализововать идеи, которые были в голове. Сейчас понимаю, что получилось так себе, но он хотя-бы запустился)
+<img width="1312" height="606" alt="test" src="https://github.com/user-attachments/assets/d960dd44-0e8d-44e6-a124-06aeba92ae3d" />
